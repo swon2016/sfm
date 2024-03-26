@@ -1,0 +1,2 @@
+/usr/bin/ar qc libframe_list.a  
+/usr/bin/ranlib libframe_list.a

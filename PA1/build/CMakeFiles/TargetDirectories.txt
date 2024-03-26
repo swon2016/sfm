@@ -1,0 +1,5 @@
+/root/PA1/build/CMakeFiles/rebuild_cache.dir
+/root/PA1/build/CMakeFiles/edit_cache.dir
+/root/PA1/build/CMakeFiles/main.dir
+/root/PA1/build/CMakeFiles/relative_pose.dir
+/root/PA1/build/CMakeFiles/frame_list.dir

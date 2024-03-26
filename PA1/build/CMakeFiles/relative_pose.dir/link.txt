@@ -1,0 +1,2 @@
+/usr/bin/ar qc librelative_pose.a  
+/usr/bin/ranlib librelative_pose.a

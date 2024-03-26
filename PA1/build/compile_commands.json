@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/PA1/build",
+  "command": "/usr/bin/g++   -I/root/PA1/include -isystem /usr/local/include/opencv4   -std=c++11 -g   -o CMakeFiles/main.dir/src/main.cpp.o -c /root/PA1/src/main.cpp",
+  "file": "/root/PA1/src/main.cpp"
+}
+]
